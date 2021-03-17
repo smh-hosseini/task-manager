@@ -1,0 +1,10 @@
+quarkus:
+  log:
+    console:
+      color: true
+  http:
+    access-log:
+      enabled: true
+
+taskmanager:
+  capacity: 2
